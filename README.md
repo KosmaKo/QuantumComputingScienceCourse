@@ -1,4 +1,4 @@
-# QuantumComputingScienceCourse
+# Quantum Computing Science Course
 Quantum Computing with IBM - Science course in Madrid
 
 Code located here was used to learn how to work with IBM quantum computers. 
